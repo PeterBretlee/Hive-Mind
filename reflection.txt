@@ -1,0 +1,10 @@
+
+Reflection
+
+1. What was the hardest part of the task?
+
+The hardest part was understanding the dataset structure and determining which columns should be used for revenue calculations and grouping.
+
+2. What is one thing pandas does that would be difficult to do in C?
+
+Pandas can group large datasets and perform calculations using a single command. In C, this would require significantly more code for parsing files, grouping records, and computing statistics.
